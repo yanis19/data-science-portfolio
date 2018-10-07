@@ -1,1 +1,1 @@
-# data-science-portfolio
+# Data science personal projects.
