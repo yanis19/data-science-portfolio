@@ -1,1 +1,1 @@
-# Data science personal projects.
+# Data science personal projects codes.
